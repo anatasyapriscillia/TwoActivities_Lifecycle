@@ -1,4 +1,4 @@
-package com.tasya.twoactivities;
+package com.tasya.twoactivities2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.tasya.twoactivities", appContext.getPackageName());
+        assertEquals("com.tasya.twoactivities2", appContext.getPackageName());
     }
 }

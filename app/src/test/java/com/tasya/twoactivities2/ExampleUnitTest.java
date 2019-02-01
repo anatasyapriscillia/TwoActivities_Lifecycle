@@ -1,4 +1,4 @@
-package com.tasya.twoactivities;
+package com.tasya.twoactivities2;
 
 import org.junit.Test;
 
